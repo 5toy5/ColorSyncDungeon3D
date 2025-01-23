@@ -21,7 +21,7 @@ import javafx.util.Duration;
 public class TestApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
-
+        System.out.println("Hello World");
         Group root = new Group();
 
         //球体定義
