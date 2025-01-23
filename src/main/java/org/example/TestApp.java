@@ -22,6 +22,7 @@ public class TestApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         System.out.println("こんにちは");
+        System.out.println("Hello");
         Group root = new Group();
 
         //球体定義
