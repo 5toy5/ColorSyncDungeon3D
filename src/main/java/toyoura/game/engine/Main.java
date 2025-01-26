@@ -1,4 +1,4 @@
-package org.example;
+package toyoura.game.engine;
 
 import javafx.application.Application;
 
