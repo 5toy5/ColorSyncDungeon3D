@@ -6,6 +6,6 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        Application.launch(Engine.class);
+        Application.launch(EnginePre.class);
     }
 }
